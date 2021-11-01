@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="403557ec-4495-4d50-8417-42c30099ced4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BalancedParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Crazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DetectLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EveryThingFunctional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MedianTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NthStair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RatInMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedundantBracket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SodukuProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubSetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Xenon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Algorithms/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Algorithms/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Algorithms/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Algorithms/TwoSum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +56,50 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WeekendProjects/React/UI/thedrugplace" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.DetectLoop">
+    <configuration name="DetectLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DetectLoop" />
+      <module name="Java_Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NthStair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NthStair" />
+      <module name="Java_Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RatInMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RatInMaze" />
+      <module name="Java_Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotateMatrix" />
+      <module name="Java_Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SodukuProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SodukuProblem" />
       <module name="Java_Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,7 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DetectLoop" />
+        <item itemvalue="Application.RotateMatrix" />
+        <item itemvalue="Application.SodukuProblem" />
+        <item itemvalue="Application.NthStair" />
+        <item itemvalue="Application.RatInMaze" />
       </list>
     </recent_temporary>
   </component>
@@ -69,7 +127,13 @@
       <updated>1633461158224</updated>
       <workItem from="1633461161297" duration="5737000" />
       <workItem from="1633676935526" duration="597000" />
-      <workItem from="1634011276124" duration="9083000" />
+      <workItem from="1634011276124" duration="12939000" />
+      <workItem from="1634709887435" duration="9141000" />
+      <workItem from="1635250239427" duration="2199000" />
+      <workItem from="1635309253293" duration="1134000" />
+      <workItem from="1635310939107" duration="15052000" />
+      <workItem from="1635493859040" duration="10603000" />
+      <workItem from="1635752824951" duration="10718000" />
     </task>
     <servers />
   </component>
@@ -77,29 +141,83 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2237" y="80" key="#Main$MainTesting.twoSum" timestamp="1634713293411">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2237" y="80" key="#Main$MainTesting.twoSum/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634713293411" />
     <state x="233" y="0" key="#Project_Structure" timestamp="1633461169550">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1633461169550" />
-    <state width="1237" height="148" key="GridCell.Tab.0.bottom" timestamp="1634113894262">
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1635312040587">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="148" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1634113894262" />
-    <state width="1397" height="221" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634016474988" />
-    <state width="1237" height="148" key="GridCell.Tab.0.center" timestamp="1634113894261">
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1635312040587" />
+    <state x="2436" y="315" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1634710885652">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2436" y="315" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634710885652" />
+    <state x="310" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1635334847654">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="148" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1634113894261" />
-    <state width="1397" height="221" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634016474988" />
-    <state width="1237" height="148" key="GridCell.Tab.0.left" timestamp="1634113894261">
+    <state x="310" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1635334847654" />
+    <state x="2394" y="121" key="FileChooserDialogImpl" timestamp="1635585652220">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1635321681040" />
+    <state x="2394" y="121" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1635585652220" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1635270938558" />
+    <state width="1397" height="166" key="GridCell.Tab.0.bottom" timestamp="1635781615422">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1237" height="92" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1635778577563" />
+    <state width="1397" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1635781615422" />
+    <state width="1237" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1635712999640" />
+    <state width="1397" height="166" key="GridCell.Tab.0.center" timestamp="1635781615421">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1237" height="92" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1635778577563" />
+    <state width="1397" height="166" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1635781615421" />
+    <state width="1237" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1635712999640" />
+    <state width="1397" height="166" key="GridCell.Tab.0.left" timestamp="1635781615421">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1237" height="92" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1635778577562" />
+    <state width="1397" height="166" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1635781615421" />
+    <state width="1237" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1635712999639" />
+    <state width="1397" height="166" key="GridCell.Tab.0.right" timestamp="1635781615422">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1237" height="92" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1635778577563" />
+    <state width="1397" height="166" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1635781615422" />
+    <state width="1237" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1635712999640" />
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom" timestamp="1634723261263">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634723261263" />
+    <state width="1397" height="276" key="GridCell.Tab.1.center" timestamp="1634723261262">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634723261262" />
+    <state width="1397" height="276" key="GridCell.Tab.1.left" timestamp="1634723261262">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634723261262" />
+    <state width="1397" height="276" key="GridCell.Tab.1.right" timestamp="1634723261263">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="276" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634723261263" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1635313428754">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="148" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1634113894261" />
-    <state width="1397" height="221" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634016474988" />
-    <state width="1237" height="148" key="GridCell.Tab.0.right" timestamp="1634113894261">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1635313428754" />
+    <state x="2344" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1634711053315">
+      <screen x="1920" y="0" width="1440" height="860" />
     </state>
-    <state width="1237" height="148" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1634113894261" />
-    <state width="1397" height="221" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634016474988" />
+    <state x="2344" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634711053315" />
+    <state x="2296" y="195" key="run.anything.popup" timestamp="1634710728167">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2296" y="195" key="run.anything.popup/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1634710728167" />
   </component>
 </project>

@@ -54,7 +54,7 @@ public class TwoSum {
         List<Integer> result = new ArrayList<>();
         for (int i = 0; i < nums.size(); i ++){
             for (int y = 0; y < nums.size(); y++){
-                if (nums.get(i) != nums.get(y)){
+                if (!nums.get(i).equals(nums.get(y))){
                     if (nums.get(i) + nums.get(y) == target){
                         result.add(i);
                         result.add(y);
@@ -70,7 +70,6 @@ public class TwoSum {
 
     //-----------> Solution 3 --------------------------------------
     public int[] getTwoSum2(int[] nums,int target){
-
         for (int i = 0; i < nums.length; i ++){
             for (int j = i + 1; j < nums.length; j ++){
                 if( nums[i] + nums[j] == target){
@@ -80,18 +79,10 @@ public class TwoSum {
         }
         throw new IllegalArgumentException("No possible solution found!");
     }
-
-
     //----------->End of Solution 3 --------------------------------------
 
 
-
-
-
-
-
-
-
-
-
+    public int addNumbers(int a,int b){
+        return a + b;
+    }
 }
